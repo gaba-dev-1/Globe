@@ -1,0 +1,52 @@
+# Sacred knowledge that transcends mortal understanding
+node_modules/
+venv/
+.env*
+.vscode/
+.DS_Store
+dist/
+build/
+target/
+
+# Itaca preservation data
+flood_cohesion_patterns/
+homecoming_unity_logs/
+ithaca_restoration_data/
+odyssean_navigation_cache/
+preservation_flood_streams/
+
+# Bifrost multilevel systems
+dimensional_bridge_data/
+rainbow_bridge_protocols/
+multilevel_design_cache/
+interdimensional_logs/
+realm_connection_patterns/
+
+# Ouroboros transformation cycles
+worm_to_dragon_data/
+transformation_cycles/
+ouroboros_evolution_logs/
+serpent_wisdom_cache/
+dragon_emergence_patterns/
+
+# Temporary manifestations
+*.log
+*.tmp
+.cache/
+__pycache__/
+
+# Deep cosmic models
+mythic_ai_models/
+preservation_consciousness/
+transformation_neural_nets/
+cosmic_restoration_patterns/
+*.h5
+*.pkl
+*.pt
+*.onnx
+
+# Forbidden knowledge
+atlantis_fragments/
+lemuria_memories/
+hyperborea_technologies/
+mu_continent_archives/

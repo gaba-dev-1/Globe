@@ -1,0 +1,13 @@
+{
+  "name": "itaca",
+  "version": "1.0.0",
+  "description": "Flood Preserving Cohesion & Homecoming Unity",
+  "keywords": ["cohesion", "unity", "preservation", "homecoming", "floods"],
+  "author": "Mythic Restoration Keeper <keeper@mythic-restoration.org>",
+  "license": "CRL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmic-cyclobeam/itaca"
+  },
+  "homepage": "https://mythic-restoration.org/itaca"
+}
