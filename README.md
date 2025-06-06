@@ -281,7 +281,6 @@ Whether you're a marine biologist working to reconnect ocean habitats, a forest 
 *"The island calls, not from across the sea, but from within the heart of every fragmented ecosystem, waiting to be made whole."*
 
 ---
----
 </br>
 
 <div align="center">
@@ -370,6 +369,9 @@ Whether you're a marine biologist working to reconnect ocean habitats, a forest 
 ![Co-création](https://img.shields.io/badge/CO--CRÉATION-10b981?style=for-the-badge&logo=users&logoColor=white)
 
 </div>
+
+---
+</br>
 
 <div align="center">
 
