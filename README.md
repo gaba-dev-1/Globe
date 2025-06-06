@@ -285,7 +285,7 @@ Whether you're a marine biologist working to reconnect ocean habitats, a forest 
 
 <div align="center">
 
-# 🔥 VUSKATHO 🌑
+# 🔥 VUSKO 🌑
 [![Phoenix Rising](https://img.shields.io/badge/Phoenix-Rising-dc2626?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/vuskatho/phoenix)
 
 ## ⚡ Through Burning Comes Rebirth ⚡
