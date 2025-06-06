@@ -380,7 +380,7 @@ Whether you're a marine biologist working to reconnect ocean habitats, a forest 
 
 <div align="center">
 
-## 🌑 VUSKATHO 🌑
+## 🌑 VUSKA 🌑
 
 ### **Through opposition, restoration. Through ash, ascension.**
 
