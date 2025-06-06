@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 VUSKA 🌑
+# 🌊 Itac 🌑
 [![Phoenix Rising](https://img.shields.io/badge/Phoenix-Rising-dc2626?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/vuskatho/phoenix)
 
 **Flood Preserving Cohesion & Homecoming Unity**
