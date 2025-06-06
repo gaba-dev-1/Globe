@@ -280,6 +280,8 @@ Whether you're a marine biologist working to reconnect ocean habitats, a forest 
 
 *"The island calls, not from across the sea, but from within the heart of every fragmented ecosystem, waiting to be made whole."*
 
+</br></br>
+
 <div align="center">
 
 # 🌊 Tissons les réseaux symbiotiques 🕸️
